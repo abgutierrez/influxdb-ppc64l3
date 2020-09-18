@@ -1,1 +1,2 @@
-# influxdb-ppc64l3
+# influxdb
+Influxdb docker for PPC64-LE
